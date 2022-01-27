@@ -1,0 +1,30 @@
+Install Packages 
+npm i bootstrap 
+npm i font-awseome 
+npm i react-router-dom  
+npm i redux react-redux
+1) Import Browser Router and Bootstrap  
+2) Create Components
+3) Setup Header Component
+4) remplace a with Link and href with to . import {Link} from "react router dom "
+5) Create Login SignUp
+6) Create Home Page
+7) Create Product Component
+8) Create About page Component
+9) Create Contact page Component
+10) Now we need to create product Detail page
+11) Now we need to Handle add to Cart Button
+12) To change the text of button ,we use UseState Hook 
+13) Now we have to add the product int the Cart 
+14) To add the product to cart we use Redux
+15) In Actions ,we tell them what we  want 
+16) In Reducers , we tell them how it works
+17) Now we add them in rootReducers.
+18) Now we have to Create a Store
+19) Now  import the in index.js and integrated them
+20) Now we have Successfully Created Redux Store and integrate them
+21) Now we need to call them
+22 )Its Workings 
+23)  Now Show Number of Items in Cart Buttons 
+24 ) Now we have to create the cart page
+25) Create CheckOut Page
